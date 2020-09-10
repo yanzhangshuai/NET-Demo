@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\17727\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\17727\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ef-demo.-1989622271.00" t="ExcludeRecursive" />
+    <e p="D:\Code\.NET\Demo\ef-demo" t="IncludeFlat">
+      <e p="Abp-EFDemo" t="IncludeRecursive">
+        <e p="Abp-EFDemo.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="blogging2.db" t="Include" />
+        <e p="blogging2.db-shm" t="Include" />
+        <e p="blogging2.db-wal" t="Include" />
+        <e p="Book.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20200722063424_init.cs" t="Include" />
+          <e p="20200722063424_init.Designer.cs" t="Include" />
+          <e p="MyContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="MyContext.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Abp-EFDemo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ClassLibrary1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="ClassLibrary1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="ClassLibrary1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ef-demo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SoftDeleting" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book.cs" t="Include" />
+        <e p="ISoftDelete.cs" t="Include" />
+        <e p="MyContext.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="SoftDeleting.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SoftDeleting.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SqlLiteDemo" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="blogging.db" t="Include" />
+        <e p="blogging.db-shm" t="Include" />
+        <e p="blogging.db-wal" t="Include" />
+        <e p="Book.cs" t="Include" />
+        <e p="ISoftDelete.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20200722060202_InitialCreate.cs" t="Include" />
+          <e p="20200722060202_InitialCreate.Designer.cs" t="Include" />
+          <e p="MyContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="MyContext.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp5.0" t="Include">
+              <e p="SqlLiteDemo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SqlLiteDemo.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

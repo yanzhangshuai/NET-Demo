@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e71912d8-a554-49ff-9163-942db2cedf04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B65EC3C7-1EF1-42AA-99CB-6BCC2D8F3C27/61/7e1e1eae/SingleQueryingEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F327171E-B234-4EF2-BC6A-D7BB000476BC/ae/97948802/EntityEntry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/c3/1a9023e5/AbpDbContext`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9CBB37E-15C0-4921-9256-808CCD583204/07/5cbd5fd9/ISoftDelete.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA5148CD-8BB8-465E-9B7D-FA7FE95E01A6/2f/5097d47c/Dependency.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SoftDeleting/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/fb/d4f48c4f/IAuditPropertySetter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F327171E-B234-4EF2-BC6A-D7BB000476BC/77/2d36f960/IMutableEntityType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abp-EFDemo/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abp-EFDemo/MyContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7B7587D2-81ED-492E-9DEC-1F9206649B56/0/IHasConcurrencyStamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F4DC118-EFDB-48E4-A1E2-A0FE532B6873/37/8a0c3253/Directory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/91/6ff38fd8/IMustHaveCreator`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/14/AbpEntityTypeBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FFD83023-0585-477D-9EF3-FDDA0F040480/0/IUnitOfWorkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/11/1b4b3f66/AbpEntityTypeBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FFD83023-0585-477D-9EF3-FDDA0F040480/E/UnitOfWorkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SqlLiteDemo/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SqlLiteDemo/MyContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SqlLiteDemo/ISoftDelete.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F327171E-B234-4EF2-BC6A-D7BB000476BC/54/5a424723/ITypeBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F327171E-B234-4EF2-BC6A-D7BB000476BC/45/4165d0ce/EntityTypeExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F327171E-B234-4EF2-BC6A-D7BB000476BC/b7/2f4845d4/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/10/ca2d6b14/AbpModelBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/ef/acf0a96e/IHasCreationTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E05A5E5D-A38E-4ABD-8C13-C04D6E566F5D/49/4a4289d0/MethodInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/af/6b7c12fe/IAuditingManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E05A5E5D-A38E-4ABD-8C13-C04D6E566F5D/d1/120cd850/MethodBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/16/EntityHistoryHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SqlLiteDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E591B3EF-E344-4ADC-B4D5-29013F3685D7/0/IHasCreationTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/26FF9048-638C-478B-935E-B85C80D28C8A/af/5df5c7c5/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/e0/5fd3cecc/IEntityHistoryHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/ca/3f55e797/AuditingManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7B7587D2-81ED-492E-9DEC-1F9206649B56/82/45de1ee0/Entity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/af/5c9f0ee1/IAuditLogScope.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Abp-EFDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA5148CD-8BB8-465E-9B7D-FA7FE95E01A6/2c/b4f37541/CompilationLibrary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/a1/f849849c/IMustHaveCreator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SoftDeleting/ISoftDelete.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E591B3EF-E344-4ADC-B4D5-29013F3685D7/57/6f26be34/EntityChangeInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SoftDeleting/Book.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SoftDeleting/MyContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA5148CD-8BB8-465E-9B7D-FA7FE95E01A6/71/c5c0ea5a/Library.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SqlLiteDemo/Migrations/20200722060202_InitialCreate.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SoftDeleting/Program.cs" />
+        <option value="$PROJECT_DIR$/SoftDeleting/ISoftDelete.cs" />
+        <option value="$PROJECT_DIR$/SoftDeleting/Book.cs" />
+        <option value="$PROJECT_DIR$/SoftDeleting/MyContext.cs" />
+        <option value="$PROJECT_DIR$/SqlLiteDemo/Book.cs" />
+        <option value="$PROJECT_DIR$/SqlLiteDemo/ISoftDelete.cs" />
+        <option value="$PROJECT_DIR$/SqlLiteDemo/MyContext.cs" />
+        <option value="$PROJECT_DIR$/SqlLiteDemo/SqlLiteDemo.csproj" />
+        <option value="$PROJECT_DIR$/Abp-EFDemo/MyContext.cs" />
+        <option value="$PROJECT_DIR$/Abp-EFDemo/Book.cs" />
+        <option value="$PROJECT_DIR$/Abp-EFDemo/Program.cs" />
+        <option value="$PROJECT_DIR$/SqlLiteDemo/Program.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f1dIuyXADnanmLilGbsPzLR94O" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected=".NET Project.SqlLiteDemo">
+    <configuration name="Abp-EFDemo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Abp-EFDemo/Abp-EFDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SoftDeleting" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SoftDeleting/SoftDeleting.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SqlLiteDemo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SqlLiteDemo/SqlLiteDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e71912d8-a554-49ff-9163-942db2cedf04" name="Default Changelist" comment="" />
+      <created>1595389457536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595389457536</updated>
+      <workItem from="1595389458386" duration="1250000" />
+      <workItem from="1595396427194" duration="2421000" />
+      <workItem from="1595398876142" duration="3842000" />
+      <workItem from="1595471129994" duration="3819000" />
+      <workItem from="1596180605903" duration="59000" />
+      <workItem from="1596279162116" duration="4641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595397686974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1595397686974" />
+    <state width="1875" height="215" key="GridCell.Tab.0.bottom" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.0.center" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.0.left" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.0.right" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.1.bottom" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.1.center" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.1.left" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.1.right" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.2.bottom" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.2.center" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.2.left" timestamp="1596447917961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917961" />
+    <state width="1875" height="215" key="GridCell.Tab.2.right" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.3.bottom" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.3.center" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.3.left" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.3.right" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.4.bottom" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.4.center" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.4.center/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.4.left" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.4.left/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state width="1875" height="215" key="GridCell.Tab.4.right" timestamp="1596447917962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.4.right/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596447917962" />
+    <state x="551" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1596443520957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="251" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596443520957" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1595398584266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1595398584266" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596444261825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1596444261825" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1595471909958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1595471909958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs</url>
+          <line>157</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs" initialLine="157">
+            <startOffsets>
+              <option value="6233" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6234" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs</url>
+          <line>150</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs" initialLine="150">
+            <startOffsets>
+              <option value="5921" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5922" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs</url>
+          <line>487</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/042AD419-8E09-4DA8-8D05-E71DE1CCEA9F/8/AbpDbContext.cs" initialLine="487">
+            <startOffsets>
+              <option value="17535" />
+            </startOffsets>
+            <endOffsets>
+              <option value="17536" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
